@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthick-11-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodeWith-Karthick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -12,14 +12,14 @@
 - 💻 Passionate about **Web Development, AI, and Data Science**
 - 🚀 Experienced in **Full-Stack Development & Machine Learning**
 - 🏆 **SIH Finalist | Best Paper Award Winner**
-- 📫 Reach me at: **karthick14mm@gmail.com**
+- 📧 Reach me at: **karthick14mm@gmail.com**
 
 ---
 
 ### 🌍 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/karthickg" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://github.com/karthick-11-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://github.com/CodeWith-Karthick" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
 </p>
 
 ---
@@ -43,12 +43,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthick-11-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthick-11-ai&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWith-Karthick&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWith-Karthick&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick-11-ai&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWith-Karthick&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
 
 ---
