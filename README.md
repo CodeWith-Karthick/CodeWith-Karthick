@@ -11,7 +11,7 @@
 - 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science**
 - 💻 Passionate about **Web Development, AI, and Data Science**
 - 🚀 Experienced in **Full-Stack Development & Machine Learning**
-- 🏆 **SIH Finalist | Best Paper Award Winner**
+- 🏆 **1700+ problem solved |AIGNITE | Best Paper Award Winner**
 - 📧 Reach me at: **karthick14mm@gmail.com**
 
 ---
