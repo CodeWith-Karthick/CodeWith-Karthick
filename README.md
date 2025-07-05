@@ -1,56 +1,57 @@
-<h1 align="center">Hi 👋, I'm Karthick G</h1>
-<h3 align="center">🚀 Aspiring Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
+# Hi there! 👋 I'm Karthick G
+
+🚀 *Aspiring Engineer | Full-Stack Developer | AI & Data Science Enthusiast*
+
+---
+
+## 🌟 About Me
+
+🎓 I'm currently pursuing a **B.Tech in Artificial Intelligence & Data Science**  
+💡 I love building things that live on the web and think like humans 🤖  
+💻 Passionate about **Web Development, AI, and Machine Learning**  
+🏆 Solved **1700+ coding problems**, Winner at **AIGNITE**, Best Paper Award recipient  
+📬 Reach me: [karthick14mm@gmail.com](mailto:karthick14mm@gmail.com)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarthickG-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)  
+[![GitHub](https://img.shields.io/badge/GitHub-CodeWith--Karthick-black?style=for-the-badge&logo=github)](https://github.com/CodeWith-Karthick)
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages**  
+`Python` `Java` `C++` `HTML` `CSS` `JavaScript`
+
+**Frameworks & Libraries**  
+`Django` `Flask` `OpenCV` `TensorFlow` `Scikit-learn`
+
+**Databases & Tools**  
+`SQLite` `MongoDB` `Git` `VS Code` `Jupyter`  
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWith-Karthick&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWith-Karthick&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=CodeWith-Karthick&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWith-Karthick&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-🌟 **About Me:**
-- 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science**
-- 💻 Passionate about **Web Development, AI, and Data Science**
-- 🚀 Experienced in **Full-Stack Development & Machine Learning**
-- 🏆 **1700+ problem solved |AIGNITE | Best Paper Award Winner**
-- 📧 Reach me at: **karthick14mm@gmail.com**
+## 💬 Quote I Live By
+
+> “**Code. Create. Innovate.**” 🚀  
+> _Because ideas are cheap — execution is everything._
 
 ---
 
-### 🌍 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/karthickg" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://github.com/CodeWith-Karthick" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWith-Karthick&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWith-Karthick&theme=radical" alt="GitHub Streak" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWith-Karthick&layout=compact&theme=radical" alt="Top Languages" width="50%" />
-</p>
-
----
-
-💡 **“Code. Create. Innovate.”** 🚀
+📌 *Let’s build something amazing together!*
