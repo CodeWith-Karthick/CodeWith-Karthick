@@ -16,7 +16,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarthickG-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KarthickG-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/11karthick)  
 [![GitHub](https://img.shields.io/badge/GitHub-CodeWith--Karthick-black?style=for-the-badge&logo=github)](https://github.com/CodeWith-Karthick)
 
 ---
@@ -30,7 +30,7 @@
 `Django` `Flask` `OpenCV` `TensorFlow` `Scikit-learn`
 
 **Databases & Tools**  
-`SQLite` `MongoDB` `Git` `VS Code` `Jupyter`  
+`SQLite`  `Git` `VS Code` `Jupyter`  
 
 ---
 
@@ -49,9 +49,9 @@
 
 ## 💬 Quote I Live By
 
-> “**Code. Create. Innovate.**” 🚀  
-> _Because ideas are cheap — execution is everything._
+> **"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine**
 
 ---
 
 📌 *Let’s build something amazing together!*
+You don’t have to be great to start, but you have to start to be great.
