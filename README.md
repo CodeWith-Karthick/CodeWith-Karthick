@@ -59,10 +59,8 @@
 
 ---
 
-## 💬 Quote I Live By
-
-> **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."** – Patrick McKenzie  
-> *You don’t have to be great to start, but you have to start to be great.*
+## 💬 Quote I Live By  
+> **You don’t have to be great to start, but you have to start to be great.**
 
 ---
 
